@@ -1,0 +1,9 @@
+export const LOADING_STATUS = 'LOADING_STATUS';
+export const MOVIES_SUCCESS = 'MOVIES_SUCCESS';
+export const GENRES_SUCCESS = 'GENRES_SUCCESS';
+export const MOVIE_DETAIL_SUCCESS = 'MOVIE_DETAIL_SUCCESS';
+export const MOVIE_CAST_SUCCESS = 'MOVIE_CAST_SUCCESS';
+export const ERROR = 'ERROR';
+export const NEW_PAGE = 'NEW_PAGE';
+export const LIKED = 'LIKED';
+export const SEARCH = 'SEARCH';
